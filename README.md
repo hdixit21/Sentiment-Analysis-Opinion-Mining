@@ -73,3 +73,14 @@ Ex: “Service was good, nice ambiance.”
 	“The steak was good. The service was not good.”
 	‘Not’ here is negation word so positive word “good” will be changed to negative opinion for service.
 ```
+
+### List of the files:
+```
+1. SentimentAnalysis.py : The main executable file. 
+2. input.txt : The file contains all the 200 reviews along with manual testing results. (Note: reviews and manual testing result are separated by '##' ) 
+3. features_synonyms.txt : Contains a list of all features with their synonyms. 4. stop-words.txt : Contains the list of all stop/transition words like 'but', 'although', 'however' etc. 
+5. negation-words.txt : Contains a list of all the words that reverses the orientation of opinion words. 
+6. negative-words.txt: Contains the list of all the words that have negative orientation. 
+7. positive-words.txt: Contains the list of all the words that have positive orientation. 
+8. evaluation_output.txt : Shows the final output and the overall accuracy of the algorithm.
+```
