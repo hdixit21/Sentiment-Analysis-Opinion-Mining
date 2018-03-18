@@ -1,8 +1,9 @@
 # Sentiment-Analysis-Opinion-Mining
 
-OBJECTIVE: Too many reviews online that it’s difficult to read them all. Our project will be able to analyze these reviews and list the opinion of the user as positive or negative for a list of features.
-INDUSTRY: We are catering to food industry in this project. We will be analyzing the restaurants.
+OBJECTIVE: Too many reviews online that it’s difficult to read them all. This project will be able to analyze these reviews and list the opinion of the user as positive or negative for a list of features.
+
 DATASET: Using yelp restaurant reviews. Number of reviews used in project: 200
+
 OUTPUT: Output will be saved in a new file by name “evaulation_output.txt”
 
 Lexicons used
