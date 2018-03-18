@@ -74,7 +74,7 @@ Ex: “Service was good, nice ambiance.”
 	‘Not’ here is negation word so positive word “good” will be changed to negative opinion for service.
 ```
 
-### List of the files:
+### List of files:
 ```
 1. SentimentAnalysis.py : The main executable file. 
 2. input.txt : The file contains all the 200 reviews along with manual testing results. (Note: reviews and manual testing result are separated by '##' ) 
