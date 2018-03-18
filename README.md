@@ -20,7 +20,8 @@ Positive Words: Provided by professor (“positive-words.txt”)
 ### Format of dataset
 Total No. of Reviews: 200
 Each line in the document is a single review
-At the end of each review, it list all the features present in that particular review with its orientation separated by single ‘~’. We are dealing with two types of orientation:
+At the end of each review, it list all the features present in that particular review with its orientation separated by single ‘~’. 
+Dealing with two types of orientation -
 Positive (1)
 Negative (-1)
 Ex: “Sentence1##The steak was good but the service was not good. ##Steak:1~ service: -1”
